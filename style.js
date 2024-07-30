@@ -14,14 +14,6 @@ const response10 = confirm('В стакане 0.09% воды. Стакан на 
 
 
 
-
-
-
-
-
-
-
-
 if(firstMatter) {
     const optimist = waterGlass / 2;
 } else {
